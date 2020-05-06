@@ -1,0 +1,2 @@
+# Tinf
+Repo for exam
